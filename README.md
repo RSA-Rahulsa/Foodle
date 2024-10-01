@@ -8,7 +8,7 @@ A campus wide food ordering portal built as a course project for CS253 by Team S
 Clone the github repo with the link provided below:
 
 ```bash
-  git clone https://github.com/pranabp-bit/foodle
+  git clone https://github.com/RSA-Rahulsa/Foodle
 ```
 
 Add the .env (environment file) needed for the software to the backend directory in the following format -
